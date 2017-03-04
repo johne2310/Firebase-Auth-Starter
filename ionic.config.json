@@ -1,0 +1,10 @@
+{
+  "name": "events",
+  "app_id": "",
+  "v2": true,
+  "typescript": true,
+  "proxies": [{
+    "path": "/v0",
+    "proxyUrl": "https://firebasestorage.googleapis.com/v0"
+  }]
+}
